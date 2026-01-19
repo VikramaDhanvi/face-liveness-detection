@@ -1,0 +1,21 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+env/
+
+# Large datasets / frames
+video_frames/
+files/
+
+# Collected temp outputs
+collected/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
