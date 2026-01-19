@@ -5,8 +5,13 @@ __pycache__/
 # Virtual environments
 venv/
 env/
+.venv/
+scripts/.venv/
 
-# Large datasets / frames
+# Datasets / CSV
+data/*.csv
+
+# Frames & raw data
 video_frames/
 files/
 
